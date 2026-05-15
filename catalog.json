@@ -1,0 +1,15 @@
+{
+  "addons": [
+    {
+      "id": "fortiweb-waf",
+      "name": "FortiWeb WAF",
+      "vendor": "Fortinet",
+      "category": "waf",
+      "icon": "fortinet",
+      "description": "Ingest FortiWeb WAF telemetry and turn web attacks into SIEM incidents.",
+      "latestVersion": "0.1.0",
+      "versions": ["0.1.0"],
+      "tagTemplate": "fortiweb-waf-v{version}"
+    }
+  ]
+}
